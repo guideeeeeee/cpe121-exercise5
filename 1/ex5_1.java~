@@ -1,0 +1,9 @@
+import java.util.Scanner;
+public class ex5_1{
+  public static void main (String[]args){
+    Scanner sn = new Scanner(System.in);
+    System.out.print("Enter radius:");
+    double user = sn.nextDouble();
+    
+  }
+}
